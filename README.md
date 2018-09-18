@@ -4,7 +4,7 @@
 
 This repo contains every line of dialogue in [The Office](https://www.imdb.com/title/tt0386676/?ref_=fn_al_tt_1). 
 
-The content is sourced from [](officequotes.net). 
+The content is sourced from [officequotes.net](officequotes.net). 
 I've made some corrections, but there are likey still errors present.
 
 [This companion project](https://github.com/zengineering/the-office-dialogue) provides the means of downloading/parsing/cleaning/storing from the source website.
